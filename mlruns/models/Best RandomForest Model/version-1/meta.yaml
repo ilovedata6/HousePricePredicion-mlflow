@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733576832053
+current_stage: None
+description: ''
+last_updated_timestamp: 1733576832053
+name: Best RandomForest Model
+run_id: 7cdea634cd31459e80b3c8bb69c3e66a
+run_link: ''
+source: mlflow-artifacts:/0/7cdea634cd31459e80b3c8bb69c3e66a/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/7cdea634cd31459e80b3c8bb69c3e66a/artifacts/model
+user_id: null
+version: 1

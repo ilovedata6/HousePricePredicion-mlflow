@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8c967144096f42399c9cbe8965057031/artifacts
+end_time: 1733575645280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c967144096f42399c9cbe8965057031
+run_name: brawny-sow-633
+run_uuid: 8c967144096f42399c9cbe8965057031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733574895319
+status: 4
+tags: []
+user_id: Dell Precision
